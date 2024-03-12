@@ -1,1 +1,2 @@
-# dummy202402.github.io
+# transduce-and-speak
+demo page
